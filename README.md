@@ -1,5 +1,7 @@
 # PHPUnit
 
+> For demonstration purpose only
+
 ## Launch
 
 ```bash
